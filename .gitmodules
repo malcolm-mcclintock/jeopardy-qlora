@@ -1,3 +1,6 @@
 [submodule "qlora-fine-tune"]
 	path = qlora-fine-tune
 	url = https://github.com/mzbac/qlora-fine-tune
+[submodule "llama.cpp"]
+	path = llama.cpp
+	url = https://github.com/ggerganov/llama.cpp
